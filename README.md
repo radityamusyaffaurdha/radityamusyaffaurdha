@@ -13,10 +13,10 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
   - Competed in the **Yogyakarta City POPDA 2026** (Chess Category). ♟️
   - Participated in the national programming competition **Toprank 2026 - Logic Code Live**. 💻
 - 👯 I’m looking to collaborate on educational platforms, or beginner-friendly coding projects, and creating website/ desainner web!! ✨🌟
-- 💬 Ask me about **Chess strategies**, **Python**, or **HTML** basics.
+- 💬 Ask me about **Chess strategies**, **Python**, **HTML** basics, or **Arabic Vocab**.
 - 📫 How to reach me: DM me on Instagram [@radityaurrd](https://instagram.com) or email at [radhityaurdha@gmail.com](mailto:radhityaurdha@gmail.com) 📩
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have memorized **8 Juz of the Al-Qur'an**, and I use the exact same focus techniques to debug my Python code! 🧠⚡
+- ⚡ Fun fact: I have memorized **8 Juz of the Al-Qur'an**🤲. and I use the exact same focus techniques to debug my Python code! 🧠⚡
 
 ---
 
