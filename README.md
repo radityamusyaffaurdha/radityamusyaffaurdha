@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
+---
+<img src=&quot;[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80&quot](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80&quot);
 
 ## 🚀 About Me
 I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta**. I combine spiritual discipline, strategic thinking, and programming logic to build meaningful digital solutions.
@@ -40,13 +42,6 @@ Here is an automated summary of my coding activities and progress:
 ![Top Languages](https://vercel.app)
 
 ---
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80"/>
-
-<img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
 
 ## 🤝 Let's Connect!
 If you want to challenge me to a game of chess online or discuss coding roadmaps, feel free to reach out!
