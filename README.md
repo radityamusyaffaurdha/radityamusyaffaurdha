@@ -17,30 +17,28 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
   - Participated in the national programming competition **Toprank 2026 - Logic Code Live**. 💻
 - 👯 I’m looking to collaborate on educational platforms, or beginner-friendly coding projects, and creating website/ desainner web!! ✨🌟
 - 💬 Ask me about **Chess strategies**, **Python**, **HTML** basics, or **Arabic Vocab**.
-- 📫 How to reach me: DM me on Instagram [@radityaurrd](https://instagram.com) or email at [radhityaurdha@gmail.com](mailto:radhityaurdha@gmail.com) 📩
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have memorized **8 Juz of the Al-Qur'an**🤲. and I use the exact same focus techniques to debug my Python code! 🧠⚡
+# 🛠 Tech Stack
 
 ---
+# 🛠 Tech Stack
 
-## 🛠️ Skills & Technologies
+<div align="center">
 
-### 💻 Technologies I'm Expanding & Learning:
-<div>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Git" />
+<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode"/>
+
 </div>
 
 ---
 
-## 📊 My GitHub Stats
-Here is an automated summary of my coding activities and progress:
+# 📊 GitHub Statistics
 
-![Raditya's GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+<div align="center">
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Slaqvi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
