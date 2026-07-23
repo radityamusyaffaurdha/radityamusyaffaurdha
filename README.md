@@ -7,10 +7,9 @@ Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
 <img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ---
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/radityamusyaffaurdha/radityamusyaffaurdha/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
 
 ---
 
