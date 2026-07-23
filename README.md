@@ -57,6 +57,11 @@ If you want to challenge me to a game of chess online or discuss coding roadmaps
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://www.linkedin.com/in/raditya-musyaffa-urdha-312255423/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+
+
 </div>
 
 ---
