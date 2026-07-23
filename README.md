@@ -48,19 +48,17 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 If you want to challenge me to a game of chess online or discuss coding roadmaps, feel free to reach out!
 
 <p align="center">
-  <!-- Ikon GitHub -->
   <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev" alt="GitHub" height="48px" />
   </a>
-  <!-- Ikon Gmail -->
   <a href="mailto:radhityaurdha@gmail.com">
     <img src="https://skillicons.dev" alt="Gmail" height="48px" />
   </a>
-  <!-- Ikon LinkedIn Baru (Kotak Melengkung & Berwarna Biru) -->
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://jsdelivr.net" alt="LinkedIn" height="48px" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev" alt="LinkedIn" height="48px" />
   </a>
 </p>
+
 
 
 
