@@ -47,19 +47,15 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 ## 🤝 Let's Connect!
 If you want to challenge me to a game of chess online or discuss coding roadmaps, feel free to reach out!
 
-<p align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev" alt="GitHub" height="48px" />
-  </a>
-  <a href="mailto:radhityaurdha@gmail.com">
-    <img src="https://skillicons.dev" alt="Gmail" height="48px" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev" alt="LinkedIn" height="48px" />
-  </a>
-</p>
+<div align="center">
 
+<a href="https://github.com/radityamusyaffaurdha">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
+<a href="mailto:radhityaurdha@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 
 </div>
