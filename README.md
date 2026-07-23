@@ -8,7 +8,9 @@ Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
 
 ---
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/radityamusyaffaurdha/radityamusyaffaurdha/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
