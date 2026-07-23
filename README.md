@@ -58,8 +58,9 @@ If you want to challenge me to a game of chess online or discuss coding roadmaps
 </a>
 
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Raditya" />
+  <img src="https://skillicons.dev" alt="LinkedIn Raditya" />
 </a>
+
 
 
 </div>
