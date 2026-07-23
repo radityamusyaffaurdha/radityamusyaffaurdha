@@ -7,9 +7,8 @@ Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
 <img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ---
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Raditya%20Musyaffa%20Urdha&fontAlign=50&fontAlignY=40&color=gradient"/>
 
 ---
 
