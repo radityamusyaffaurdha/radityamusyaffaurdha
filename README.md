@@ -1,16 +1,12 @@
 
 ## Hi there 👋, i'm 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Raditya%20Musyaffa%20Urdha&fontAlign=50&fontAlignY=40&color=gradient"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Raditya%20Musyaffa%20Urdha&fontSize=40&fontColor=ffffff"/>
 
 🤩🫶
 ---
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80" />
 
 <img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Raditya%20Musyaffa%20Urdha&fontSize=40&fontColor=ffffff"/>
 
 ---
 
