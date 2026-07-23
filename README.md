@@ -1,6 +1,5 @@
-## Hi there 👋
 
-## Hii guyss, i'm 
+## Hi there 👋, i'm 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Raditya%20Musyaffa%20Urdha&fontAlign=50&fontAlignY=40&color=gradient"/> 
 
 🤩🫶
@@ -9,10 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V4YzN0YjZ0aTJ4N3Y4cWJwM2h0cWQ4N3g5Y2JqN3p0ZXk2dG13NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
-</p>
 ---
 
 ## 🚀 About Me
