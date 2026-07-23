@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
+Hii guyss, i'm 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Raditya%20Musyaffa%20Urdha&fontAlign=50&fontAlignY=40&color=gradient"/> 
+
+🤩🫶
 ---
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80" />
 
@@ -8,7 +11,11 @@ Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Raditya%20Musyaffa%20Urdha&fontAlign=50&fontAlignY=40&color=gradient"/>
+<h1 align="center">Hi 👋, I'm Raditya Musyaffa Urdha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Student+Developer;Python+Enthusiast;Web+Development+Learner;Future+Computer+Science+Student" />
+</p>
 
 ---
 
