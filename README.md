@@ -47,23 +47,21 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 ## 🤝 Let's Connect!
 If you want to challenge me to a game of chess online or discuss coding roadmaps, feel free to reach out!
 
-<div align="center">
+<p align="center">
+  <!-- Ikon GitHub -->
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev" alt="GitHub" height="48px" />
+  </a>
+  <!-- Ikon Gmail -->
+  <a href="mailto:radhityaurdha@gmail.com">
+    <img src="https://skillicons.dev" alt="Gmail" height="48px" />
+  </a>
+  <!-- Ikon LinkedIn Baru (Kotak Melengkung & Berwarna Biru) -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://jsdelivr.net" alt="LinkedIn" height="48px" style="border-radius: 10px;" />
+  </a>
+</p>
 
-<a href="https://github.com/radityamusyaffaurdha">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:radhityaurdha@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-
-<a href="https://linkedin.com" target="_blank">
-  <svg xmlns="http://w3.org" viewBox="0 0 24 24" width="48px" height="48px">
-    <rect width="24" height="24" rx="5" fill="#0077B5"/>
-    <path fill="#ffffff" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.8v8.37h2.8v-4.67c0-.25.02-.5.1-.68a1.14 1.14 0 0 1 1-.77c.76 0 1 .58 1 1.42v4.7zM7.5 9.15a1.65 1.65 0 1 0 0-3.3 1.65 1.65 0 0 0 0 3.3m1.4 9.35V10.15h-2.8v8.35z"/>
-  </svg>
-</a>
 
 
 </div>
