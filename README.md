@@ -8,6 +8,10 @@ Hii guyss, i'm Raditya Musyaffa Urdha!! 🤩🫶
 
 ---
 
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 About Me
 I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta**. I combine spiritual discipline, strategic thinking, and programming logic to build meaningful digital solutions.
 
