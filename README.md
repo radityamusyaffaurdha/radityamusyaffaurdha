@@ -10,6 +10,10 @@
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Raditya%20Musyaffa%20Urdha&fontSize=40&fontColor=ffffff"/>
+
+---
+
 ## 🚀 About Me
 I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta**. I combine spiritual discipline, strategic thinking, and programming logic to build meaningful digital solutions.
 
