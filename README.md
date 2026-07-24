@@ -81,6 +81,6 @@ If you want to challenge me to a game of chess online or discuss coding roadmaps
 
 ### 💬 Favorite Quote
 
-"take risk broo"🔥
+"take a risk broo"🔥
 
 </div>
