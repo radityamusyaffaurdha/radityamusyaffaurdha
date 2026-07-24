@@ -46,7 +46,7 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 
 ---
 
-## 🤝 Let's Connect!
+#🤝 Let's Connect!
 If you want to challenge me to a game of chess online or discuss coding roadmaps, feel free to reach out!
 <h3 align="center">Connect with Me</h3>
 
@@ -79,7 +79,7 @@ If you want to challenge me to a game of chess online or discuss coding roadmaps
 
 <div align="center">
 
-### 💬 Favorite Quote
+## 💬 Favorite Quote
 
 "take a risk broo"🔥
 
