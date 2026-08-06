@@ -39,7 +39,7 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 <div align="center">
 
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Slaqvi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=radityamusyaffaurdha&theme=tokyonight&hide_border=true"/>
 
 </div>
 
