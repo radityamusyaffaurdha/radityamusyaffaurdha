@@ -43,6 +43,14 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 
 </div>
 
+<hr> 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRizqiAkbar170&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 
 ---
 
