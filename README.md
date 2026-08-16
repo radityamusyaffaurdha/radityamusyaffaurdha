@@ -90,8 +90,9 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 "take a risk broo"🔥
 
 </div>
+
 ### My Contribution Snake 🐍
 
-![GitHub Snake](https://github.com)
+![GitHub Snake](https://githubusercontent.com)
 
 
