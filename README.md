@@ -91,8 +91,7 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 
 </div>
 
-### My Contribution Snake 🐍
+![Ular Kontribusi](https://vercel.app)
 
-![GitHub Snake](https://githubusercontent.com)
 
 
