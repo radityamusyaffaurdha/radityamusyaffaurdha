@@ -90,7 +90,7 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 "take a risk broo"🔥
 
 </div>
-<img src="https://vercel.app" alt="Graph" />
+
 
 
 
