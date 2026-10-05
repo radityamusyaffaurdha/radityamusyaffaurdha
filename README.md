@@ -40,7 +40,6 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
   <br><br>
   <img height="170" src="https://streak-stats.demolab.com/?user=radityamusyaffaurdha&theme=tokyonight&hide_border=true" />
   <br><br>
-  <img width="95%" src="https://ghchart.rshah.org/06B6D4/radityamusyaffaurdha" alt="Contribution Chart" />
 </div>
 <div align="center">
   <picture>
