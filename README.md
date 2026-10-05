@@ -1,12 +1,14 @@
-
 ## Hi there 👋, i'm 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Raditya%20Musyaffa%20Urdha&fontSize=40&fontColor=ffffff"/>
 
-🤩🫶
----
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80" />
+<div align="center">
+  <h3>🤩🫶</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+(RPL)+Student+At+SMK+Muhammadiyah+1+Yogyakarta;Python+%7C+HTML+%7C+Basic+CSS+%7C+Basic+C%2B%2B;Competitive+Programming+Enthusiast;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=radityamusyaffaurdha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p align="right">
+  <img src="https://komarev.com" />
+</p>
 
 ---
 
@@ -24,75 +26,45 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
 - 💬 Ask me about **Chess strategies**, **Python**, **HTML** basics, or **Arabic Vocab**.
 
 ---
-# 🛠 Tech Stack
 
+## 🛠 Tech Stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode"/>
 </div>
 
 ---
 
-# 📊 GitHub Statistics
-
+## 📊 GitHub Statistics
 <div align="center">
-
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=radityamusyaffaurdha&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=radityamusyaffaurdha&theme=tokyonight&hide_border=true"/>
+  <br><br>
+  <img height="170" src="https://vercel.app"/>
 </div>
-
-<hr> 
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radityamusyaffaurdha&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 
 ---
 
 <h3 align="center">Connect with Me</h3>
-
 <div align="center">
-
-<a href="https://github.com/radityamusyaffaurdha">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:radhityaurdha@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raditya-musyaffa-urdha-312255423/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/radityaurrd/">
-  <img src="https://cdn.simpleicons.org/instagram" width="48" height="48"/>
-</a>
-
-<a href="https://x.com/sarhcameronn">
-  <img src="https://cdn.simpleicons.org/x" width="48" height="48"/>
-</a>
-
+  <a href="https://github.com/radityamusyaffaurdha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:radhityaurdha@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raditya-musyaffa-urdha-312255423/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/radityaurrd/" target="_blank">
+    <img src="https://skillicons.dev" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/sarhcameronn" target="_blank">
+    <img src="https://skillicons.dev" alt="X / Twitter"/>
+  </a>
 </div>
-
 
 ---
 
 <div align="center">
-
-## 💬 Favorite Quote
-
-"take a risk broo"🔥
-
+  <h3>💬 Favorite Quote</h3>
+  <p><i>"take a risk broo"</i> 🔥</p>
 </div>
-
-
-
-
-
-
