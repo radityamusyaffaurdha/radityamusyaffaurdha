@@ -42,7 +42,12 @@ I am a **Software Engineering (RPL)** student at **SMK Muhammadiyah 1 Yogyakarta
   <br><br>
   <img width="95%" src="https://ghchart.rshah.org/06B6D4/radityamusyaffaurdha" alt="Contribution Chart" />
 </div>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radityamusyaffaurdha/radityamusyaffaurdha/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/radityamusyaffaurdha/radityamusyaffaurdha/output/github-snake.svg" />
+  </picture>
+</div>
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
